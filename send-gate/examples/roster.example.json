@@ -1,0 +1,6 @@
+{
+  "recipients": [
+    {"id": "U01ALICE", "name": "Alice Tanaka", "aliases": ["Alice", "Tanaka-san"], "org": "Acme Corp"},
+    {"id": "U02BOB", "name": "Bob Sato", "aliases": ["Bob"], "org": "Acme Corp"}
+  ]
+}

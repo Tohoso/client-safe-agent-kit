@@ -1,0 +1,8 @@
+Hi Alice,
+Thanks for sending the signed order form.
+As you know, the kickoff is on Thursday at 3 pm.
+Please note that the meeting room has no projector.
+Technically, our scheduler stores times in UTC internally.
+Could you send the list of attendees by Wednesday?
+I will bring the printed agenda.
+Best regards,
